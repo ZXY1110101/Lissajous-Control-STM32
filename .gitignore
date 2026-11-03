@@ -1,0 +1,16 @@
+# Keil build outputs and local user state
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.d
+*.dep
+*.build_log.htm
